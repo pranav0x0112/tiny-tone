@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+*.exe
+*.vcd
+
+# Bluespec intermediates
+*.bo
+*.ba
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
