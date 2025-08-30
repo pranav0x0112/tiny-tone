@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+*.exe
+*.vcd
+
+# Bluespec intermediates
+*.bo
+*.ba
+*.sched
+*.so
+*.h
+*.o
+*.cxx
+
+# GTKWave files
+*.gtkw
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
