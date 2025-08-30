@@ -6,6 +6,14 @@ build/
 # Bluespec intermediates
 *.bo
 *.ba
+*.sched
+*.so
+*.h
+*.o
+*.cxx
+
+# GTKWave files
+*.gtkw
 
 # Logs
 *.log
