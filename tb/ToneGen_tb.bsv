@@ -8,12 +8,9 @@ package ToneGen_tb;
 
     ToneGen_IFC dut <- mkToneGen;
 
-    Reg#(Bool) dumpDone <- mkReg(False);
-
-    rule dump_once (!dumpDone);
+    rule start_dump;
       $dumpfile("tonegen.vcd");
       $dumpvars();
-      dumpDone <= True;
     endrule
 
     Stmt testSeq = 
