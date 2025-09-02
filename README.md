@@ -2,6 +2,8 @@
 
 A PWM tone generator peripheral designed for [TinyQV](https://github.com/TinyTapeout/ttsky25a-tinyQV) - A RISC-V SoC for Tiny Tapeout.
 
+> Read the full journey of Tiny-Tone [here](https://tiny-tone.hashnode.dev/tiny-tone)
+
 ## What is it?
 
 TinyTone generates configurable PWM signals for audio tone generation. It provides a memory-mapped interface allowing the RISC-V SoC to control frequency and enable/disable tone output in real-time.
