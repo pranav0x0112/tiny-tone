@@ -2,7 +2,7 @@
 
 A PWM tone generator peripheral designed for [TinyQV](https://github.com/TinyTapeout/ttsky25a-tinyQV) - A RISC-V SoC for Tiny Tapeout.
 
-> Read the full journey of Tiny-Tone [here](https://tiny-tone.hashnode.dev/tiny-tone)
+> Read the blog write up of Tiny-Tone [here](https://tiny-tone.hashnode.dev/tiny-tone)
 
 ## What is it?
 
